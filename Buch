@@ -73,12 +73,20 @@ bla
 V3.0
 ---
 
+<<<<<<< HEAD
 Heinz Kapitel 7
+=======
+HArry Kapitel 7
+>>>>>>> origin/Harry
 
 bla
 bla
 bla
+<<<<<<< HEAD
 V4.0
+=======
+V3.0
+>>>>>>> origin/Harry
 ---
 
 
